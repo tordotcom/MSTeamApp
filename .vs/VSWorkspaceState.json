@@ -1,10 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\src",
+    "\\manifest",
     "\\src\\views",
-    "\\src\\views\\tab-auth"
+    "\\src\\views\\manifest-creator"
   ],
-  "SelectedNode": "\\src\\views\\tab-auth\\silent-end.hbs",
+  "SelectedNode": "\\manifest\\manifest.json",
   "PreviewInSolutionExplorer": false
 }
